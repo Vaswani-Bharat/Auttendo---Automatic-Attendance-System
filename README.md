@@ -16,14 +16,9 @@ In Auttendo we have created UI based software to use this facial attendance syst
 
 ## Installation
 
+Install the EXE file from our releases.
+Use the Desktop icon to run the application
 
-
-```bash
-  python main.py
-```
-It will open the desktop application made using KIVY Framework.
-
-Or you can install the EXE file from our releases.
 ## Screenshots
 ### 1. Home Screen
 ![App Screenshot](https://github.com/nullbite-coder/Auttendo-Code/blob/main/screenshots/01.jpg)
